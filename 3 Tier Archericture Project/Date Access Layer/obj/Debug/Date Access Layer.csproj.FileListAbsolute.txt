@@ -1,0 +1,6 @@
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\bin\Debug\Date Access Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\bin\Debug\Date Access Layer.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\obj\Debug\Date Access Layer.csproj.AssemblyReference.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\obj\Debug\Date Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\obj\Debug\Date Access Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Access Layer\obj\Debug\Date Access Layer.pdb

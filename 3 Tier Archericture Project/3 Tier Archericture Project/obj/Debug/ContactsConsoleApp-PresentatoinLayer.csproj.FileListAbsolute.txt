@@ -1,0 +1,13 @@
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.exe.config
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.exe
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\Date Business Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\Date Business Layer.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\ContactsConsoleApp-PresentatoinLayer.csproj.AssemblyReference.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.exe.config
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\ContactsConsoleApp-PresentatoinLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\Contacts.980D1280.Up2Date
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.exe
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\Date Access Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\Date Access Layer.pdb

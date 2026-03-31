@@ -1,0 +1,6 @@
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\bin\Debug\Date Business Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\bin\Debug\Date Business Layer.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\obj\Debug\Date Business Layer.csproj.AssemblyReference.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\obj\Debug\Date Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\obj\Debug\Date Business Layer.dll
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\Date Business Layer\obj\Debug\Date Business Layer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.exe.config
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.exe
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\bin\Debug\3 Tier Archericture Project.pdb
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.csproj.AssemblyReference.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.exe
+C:\Users\Hassan\Desktop\C# + DB\3 Tier Archericture Project\3 Tier Archericture Project\obj\Debug\3 Tier Archericture Project.pdb
